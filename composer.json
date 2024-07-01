@@ -1,0 +1,18 @@
+{
+    "name": "storage/storage",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Storage\\Storage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pastukhov Andrey",
+            "email": "pvand.work@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
